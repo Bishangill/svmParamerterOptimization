@@ -61,7 +61,7 @@ Sample 	Accuracy 	    Kernel 	Nu 	    C
 5 	    0.7889      	poly 	0.1 	3
 6 	    0.7123      	linear 	0.5 	2
 7 	    0.7345      	sigmoid 0.2 	1
-8 	    0.7829      	linear 	0.1 	1
+8 	    0.7929      	linear 	0.1 	1
 9 	    0.7555 	        rbf 	0.1 	2
 10  	0.7833 	        sigmoid 0.1 	3
 
